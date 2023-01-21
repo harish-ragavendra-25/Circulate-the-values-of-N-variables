@@ -43,7 +43,7 @@ def circulate():
 ```
 
 ## Output:
-![output!](circulateoutput.png)
+![output!](circulateoutput3.png)
 
 ## Result:
 thus the program executed sucessfully
